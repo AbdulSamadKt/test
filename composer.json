@@ -1,0 +1,14 @@
+{
+    "name": "samad/testpackage",
+    "description": "my first test package",
+    "type": "library",
+    "license": "GUI",
+    "authors": [
+        {
+            "name": "Abdul Samad",
+            "email": "samadktvpm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
